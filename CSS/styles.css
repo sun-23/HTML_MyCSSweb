@@ -1,0 +1,137 @@
+
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family:'Quicksand';
+}
+
+h1.MyName {
+  margin: 0 auto 0 auto;
+  font-size: 70px;
+  color: #93b5b3;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family:'Quicksand';
+}
+
+h3{
+  font-family:'Quicksand';
+  font-size: 2em;
+}
+
+h3.HI1 {
+  color: #12d3cf;
+}
+
+h2.develop {
+  color: #12d3cf;
+}
+
+h2.workhelp {
+  color: #12d3cf;
+}
+
+.aprogramer {
+  margin-top: 20px;
+  margin-bottom: 120px;
+  color: #b2d3be;
+  font-size: 30px;
+}
+
+.top {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 200px;
+  background-color: #dff0ea;
+}
+
+.mid {
+  background-color: white;
+  padding-bottom: 50px;
+}
+
+.bottom {
+  background-color: #dff0ea;
+  height: 170px;
+  padding-bottom: 30px;
+}
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottonCloud {
+  position: absolute;
+  left : 300px;
+  bottom: 250px;
+}
+.topCloud {
+  position: absolute;
+  right: 300px;
+  top: 200px;
+}
+
+.land {
+  margin-bottom: -4px;
+}
+.Me1 {
+  margin-top: 80px;
+  height: 150px;
+  width: 150px;
+}
+
+p.p1 {
+  margin-bottom: 100px;
+}
+
+p.p3 {
+  margin-bottom: 50px;
+}
+
+p.MessageText {
+  color : #5c7658;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #c8dad3;
+    border-width: 5px;
+    width: 5%;
+}
+
+img.phoneImg {
+  width: 150px ;
+  height: 150px;
+}
+
+table.table1 {
+  padding: 50px;
+  text-align: left;
+  margin-left:30%;
+  margin-right:30%;
+}
+
+table.MessageTable {
+  width: 300px;
+  height: 50px;
+  background-color: #67eaca;
+  margin-left: 40%;
+  margin-right: 40%;
+
+}
+
+table.tableLink {
+  padding: 50px;
+  margin-left: 42%;
+  margin-right: 42%;
+}
+
+h1.What {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  color: #5c7658;
+}
