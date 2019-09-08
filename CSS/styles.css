@@ -54,7 +54,7 @@ h2.workhelp {
 }
 
 .SkillMid {
-  width: 50%;
+  width: 40%;
   margin: 100px auto 100px auto;
   text-align: left;
 }
@@ -91,10 +91,14 @@ h2.workhelp {
 }
 
 p.p1 {
+  width: 30%;
+  margin: auto;
   margin-bottom: 100px;
 }
 
 p.p3 {
+  width: 30%;
+  margin: auto;
   margin-bottom: 50px;
 }
 
