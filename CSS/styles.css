@@ -6,6 +6,15 @@ body {
   font-family:'Quicksand';
 }
 
+a {
+  text-decoration: none;
+  color: #5c7658;
+}
+
+a:hover {
+  color: white;
+}
+
 h1.MyName {
   margin: 0 auto 0 auto;
   font-size: 70px;
@@ -181,7 +190,7 @@ table.MessageTable {
 
 
 table.tableLink {
-  padding: 50px;
+  margin-top: 100px;
   margin: auto;
 }
 
@@ -189,4 +198,8 @@ h1.What {
   margin-top: 100px;
   margin-bottom: 50px;
   color: #5c7658;
+}
+td {
+  padding: 20px;
+  padding-top: 50px;
 }
