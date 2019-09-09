@@ -30,7 +30,7 @@ h3{
   font-size: 2em;
 }
 
-h3.HI1 {
+h2.HI1 {
   color: #12d3cf;
 }
 
@@ -64,7 +64,7 @@ h2.workhelp {
 
 .SkillMid {
   width: 40%;
-  margin: 100px auto 100px auto;
+  margin: 60px auto 100px auto;
   text-align: left;
 }
 
